@@ -1,0 +1,35 @@
+{
+  "subject": "An adult Tamil woman wearing a deep maroon Kanchipuram silk sari with a gold zari border, crouching to draw a white rice-flour kolam by hand",
+  "setting": {
+    "place": "A lived-in Chettinad house courtyard in Karaikudi, Tamil Nadu",
+    "region": "Chettinad",
+    "era": "Present day",
+    "festival": "Thai Pongal",
+    "architecture": "An open central courtyard with lime-plastered walls, wooden pillars, terracotta roof tiles and patterned Athangudi floor tiles around a plain kolam-drawing area",
+    "time_of_day": "Late afternoon golden hour shortly before sunset"
+  },
+  "lighting": "Natural sunlight entering the open courtyard, with direction and warmth appropriate to the specified time of day",
+  "camera": {
+    "shot": "Wide shot showing the woman and the courtyard",
+    "lens": "35mm",
+    "angle": "Eye level"
+  },
+  "palette": [
+    "Deep maroon",
+    "Muted gold",
+    "Terracotta",
+    "Lime white"
+  ],
+  "style": "Photorealistic documentary photography with natural skin texture, believable proportions and a quiet everyday atmosphere",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "North Indian palace architecture",
+    "Snow or winter clothing",
+    "Bridal styling or excessive jewellery",
+    "Crowds or exaggerated festival decorations",
+    "Extra fingers or distorted hands",
+    "Floating objects",
+    "Text, logos or watermarks",
+    "Cartoon or fantasy appearance"
+  ]
+}
